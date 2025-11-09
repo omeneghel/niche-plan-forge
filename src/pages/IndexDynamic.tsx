@@ -9,7 +9,12 @@ import { useNicheContent } from "@/hooks/useNicheContent";
 
 const IndexDynamic = () => {
   const { niche } = useParams<{ niche: string }>();
+  console.log('🔍 DEBUG IndexDynamic - niche param:', niche);
+  
   const { content, loading, error } = useNicheContent(niche || "");
+  console.log('🔍 DEBUG IndexDynamic - content:', content);
+  console.log('🔍 DEBUG IndexDynamic - loading:', loading);
+  console.log('🔍 DEBUG IndexDynamic - error:', error);
 
   if (loading) {
     return (

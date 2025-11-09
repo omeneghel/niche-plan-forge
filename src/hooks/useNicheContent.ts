@@ -12,24 +12,30 @@ export const useNicheContent = (nicheSlug: string) => {
         setLoading(true);
         setError(null);
         
+        console.log('🔍 DEBUG useNicheContent - Fetching:', `/${nicheSlug}.json`);
         const response = await fetch(`/${nicheSlug}.json`);
+        console.log('🔍 DEBUG useNicheContent - Response status:', response.status, response.ok);
         
         if (!response.ok) {
           throw new Error(`Conteúdo não encontrado para o nicho: ${nicheSlug}`);
         }
         
         const data: NicheContent = await response.json();
+        console.log('🔍 DEBUG useNicheContent - Data loaded:', data);
         setContent(data);
       } catch (err) {
+        console.error('🔍 DEBUG useNicheContent - Error:', err);
         setError(err instanceof Error ? err.message : 'Erro ao carregar conteúdo');
-        console.error('Error loading niche content:', err);
       } finally {
         setLoading(false);
       }
     };
 
     if (nicheSlug) {
+      console.log('🔍 DEBUG useNicheContent - nicheSlug:', nicheSlug);
       loadContent();
+    } else {
+      console.log('🔍 DEBUG useNicheContent - nicheSlug is empty!');
     }
   }, [nicheSlug]);
 
