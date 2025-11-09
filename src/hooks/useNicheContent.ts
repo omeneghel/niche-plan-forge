@@ -12,7 +12,7 @@ export const useNicheContent = (nicheSlug: string) => {
         setLoading(true);
         setError(null);
         
-        const response = await fetch(`/content/${nicheSlug}.json`);
+        const response = await fetch(`/${nicheSlug}.json`);
         
         if (!response.ok) {
           throw new Error(`Conteúdo não encontrado para o nicho: ${nicheSlug}`);
