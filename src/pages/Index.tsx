@@ -298,69 +298,109 @@ const Index = () => {
                 </p>
               </ContentSection>
 
-              {/* Section 4 */}
-              <ContentSection id="o-que-esta-incluido" title="O que estará incluído no seu plano de negócios?">
-                <Subsection title={`Plano estratégico inicial para ${niche}`}>
-                  <p>
-                    Definição de Missão, Visão e Valores da empresa e construção do Business Model Canvas, que descreve
-                    os blocos fundamentais do negócio (proposta de valor, recursos, canais, clientes e receitas).
-                  </p>
-                </Subsection>
+              {/* Section 4 - O que está incluído */}
+              <section id="o-que-esta-incluido" className="mb-12 scroll-mt-8">
+                <div className="bg-hero-gradient text-primary-foreground rounded-2xl p-8 md:p-12 shadow-xl">
+                  <div className="flex items-center gap-3 mb-8">
+                    <svg className="w-8 h-8 md:w-10 md:h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                    </svg>
+                    <h2 className="text-2xl md:text-3xl font-bold">
+                      O Que Está Incluído no Seu Plano de Negócios
+                    </h2>
+                  </div>
+                  
+                  <div className="grid md:grid-cols-2 gap-6">
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Análise de viabilidade econômica específica para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Pesquisa e análise de mercado para ${niche}`}>
-                  <p>
-                    Inclui análise macroeconômica, análise setorial, mapeamento do público-alvo, análise da concorrência
-                    e estudo da região, com base em dados demográficos, espaciais e de consumo específicos do setor de
-                    alimentação.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Definição de público-alvo e posicionamento no mercado de {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Plano de marketing para ${niche}`}>
-                  <p>
-                    Aplicação dos 7 P's do marketing, análise do valor da marca e definição de estratégias de marketing
-                    e fidelização de clientes, acompanhadas de um painel de indicadores analíticos para acompanhamento
-                    das ações.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Planejamento operacional completo adaptado para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Plano operacional para ${niche}`}>
-                  <p>
-                    Estruturação do espaço físico e dos processos operacionais, utilização da ferramenta 5W2H para
-                    planejamento de atividades, elaboração do quadro organizacional e indicação de softwares de gestão
-                    úteis à operação.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Estratégias de marketing e aquisição de clientes para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Plano financeiro para ${niche}`}>
-                  <p>
-                    Levantamento dos custos fixos e variáveis, análise do investimento inicial, projeção de receitas e
-                    fluxo de caixa para 5 anos com três cenários (otimista, moderado e pessimista) e cálculo dos
-                    indicadores payback e ponto de equilíbrio.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Projeções financeiras detalhadas (3-5 anos) para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Plano estratégico final para ${niche}`}>
-                  <p>
-                    Realização da análise SWOT (forças, fraquezas, oportunidades e ameaças) e elaboração do Plano de
-                    Metas com base no Balanced Scorecard (BSC), conectando perspectivas financeira, de mercado,
-                    processos internos e aprendizado.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Análise de investimento inicial necessário para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Análise de riscos para ${niche}`}>
-                  <p>
-                    Construção da Matriz de Riscos, que identifica e classifica os riscos conforme probabilidade e
-                    impacto, oferecendo uma visão clara dos desafios e vulnerabilidades do empreendimento.
-                  </p>
-                </Subsection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Plano de gestão e recursos humanos para {niche.toLowerCase()}
+                      </p>
+                    </div>
 
-                <Subsection title={`Relatório final para ${niche}`}>
-                  <p>
-                    Entrega de um documento consolidado com todas as análises e recomendações, acompanhado de
-                    apresentação final à equipe cliente, garantindo compreensão total dos resultados e orientações.
-                  </p>
-                </Subsection>
-              </ContentSection>
+                    <div className="flex gap-4">
+                      <div className="flex-shrink-0 mt-1">
+                        <svg className="w-6 h-6 text-primary-foreground/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-primary-foreground/95 leading-relaxed">
+                        Indicadores de desempenho (KPIs) específicos para {niche.toLowerCase()}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </section>
 
               {/* CTA Final */}
               <div className="bg-gradient-to-br from-primary to-primary/90 text-primary-foreground rounded-2xl p-8 md:p-10 text-center shadow-lg">
