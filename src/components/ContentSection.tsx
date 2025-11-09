@@ -28,11 +28,11 @@ export const Subsection = ({ title, children, level = 3 }: SubsectionProps) => {
   const sizeClass = level === 3 ? "text-xl md:text-2xl" : "text-lg md:text-xl";
   
   return (
-    <div className="mb-6">
-      <HeadingTag className={`${sizeClass} font-semibold text-foreground mb-3`}>
+    <div className="mb-10">
+      <HeadingTag className={`${sizeClass} font-semibold text-foreground mb-4`}>
         {title}
       </HeadingTag>
-      <div className="text-foreground/80 leading-relaxed space-y-3">
+      <div className="text-foreground/80 leading-relaxed space-y-4">
         {children}
       </div>
     </div>
