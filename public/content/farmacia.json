@@ -1,0 +1,67 @@
+{
+  "niche": "Farmácia",
+  "slug": "farmacia",
+  "introduction": {
+    "paragraph1": "Um plano de negócios para farmácia organiza estratégia, projeções financeiras e posicionamento de mercado, indicando viabilidade e caminhos práticos para abrir ou expandir um ponto de venda farmacêutico. Quer reduzir incertezas e tomar decisões com dados consistentes?",
+    "paragraph2": "O documento integra análise de mercado, plano de marketing, operacional e financeiro, além de identificar fontes de receita e modelos de precificação adequados. Com isso, o empreendedor consegue avaliar capital necessário, margens e canais de venda específicos para farmácias."
+  },
+  "sections": {
+    "whyCreate": {
+      "intro": "Um plano de negócios para farmácia é ferramenta central para três objetivos: obter financiamentos e crédito, atrair sócios ou parceiros e validar a viabilidade do negócio. A seguir explicamos cada propósito com foco em operações, receitas e estratégias próprias de farmácias.",
+      "financing": "Um plano de negócios para farmácia detalha projeções de caixa, margens por categoria (medicamentos, OTC, higiene), giro de estoque e estratégias de precificação. Essas informações mostram capacidade de pagamento e retorno, aumentando a confiança de bancos e investidores na liberação de crédito para abertura ou expansão.",
+      "partners": "Ao buscar sócios, um plano de negócios para farmácia demonstra modelo de receita (venda presencial, delivery, programas de fidelidade), diferenciação competitiva e projeções realistas. Documentação clara facilita negociações societárias, definição de participação e critérios de entrada de novos parceiros interessados no potencial do ponto de venda.",
+      "viability": "A viabilidade de uma farmácia depende de análise de demanda local, mix de produtos, estrutura de custos e margens por categoria. O plano quantifica ponto de equilíbrio, cenários de faturamento e sensibilidade a preços e promoções, permitindo entender se o projeto é sustentável antes de investir recursos significativos."
+    },
+    "whatIsImportant": {
+      "intro": "Construir um plano de negócios para farmácia exige atenção a sete pilares: pesquisa de mercado, marketing, operação, finanças, estratégia, riscos e indicadores. Esses elementos se integram para oferecer diagnóstico e caminhos práticos ao empreendedor.",
+      "marketResearch": {
+        "macroeconomic": "A análise macroeconômica contextualiza demanda e comportamento do consumidor, incluindo tendências demográficas e poder de compra que influenciam vendas de OTC e higiene. Para farmácias, entender ciclos e indicadores econômicos ajuda a projetar receitas e planejar estoques e promoções com base em cenários realistas.",
+        "sector": "Avaliar o setor envolve identificar segmentos relevantes — redes, independentes e franquias — e entender como cada um compete por mix de produtos, serviços e canais. Essa análise permite definir posicionamento competitivo, políticas de preço e diferenciais, como delivery, programas de fidelização e serviços clínicos.",
+        "targetAudience": "Mapear público-alvo considera perfis socioeconômicos, faixas etárias e necessidades de saúde locais, orientando mix de produtos e serviços. Esse mapeamento sustenta decisões sobre sortimento, promoções e canais (atendimento presencial, venda por telefone e entrega), impactando receitas e fidelização.",
+        "competition": "Estudar concorrência revela alcance de redes e independentes, preços praticados por categoria e serviços oferecidos. Entender gaps e oportunidades competitivas auxilia na definição de mix, diferenciação por sortimento ou atendimento e estratégias de promoção que aumentem a atração de clientes locais.",
+        "region": "O estudo regional identifica fluxo de pessoas, concorrência direta, perfil do consumo e sazonalidade. Para farmácias, isso informa tamanho ideal do ponto de venda, espaço para estoque e áreas de conveniência, além de orientar estratégias como horários estendidos, delivery e parcerias com estabelecimentos próximos."
+      },
+      "marketing": {
+        "methodologies": "Escolher metodologias de marketing robustas garante coerência entre posicionamento e execução. Para farmácias, metodologias que combinam segmentação por categoria, precificação orientada por margem e ações locais (eventos de saúde, parcerias) ajudam a construir presença e aumentar ticket médio.",
+        "strategies": "Estratégias de marketing devem articular canais (loja física, delivery, redes sociais), promoções por categoria e programas de relacionamento. Em farmácias, é importante priorizar mix de comunicação que destaque conveniência, variedade e diferenciação em serviços, além de estratégias de preço por linha de produto.",
+        "customerLoyalty": "Fidelização envolve programas de pontos, ofertas segmentadas e serviços complementares que aumentem frequência de compra. Para farmácias, reter clientes reduz a pressão sobre aquisição e melhora margem por cliente, especialmente quando combinada com cross-selling entre medicamentos isentos e itens de conveniência.",
+        "indicators": "Definir indicadores como ticket médio, giro de estoque, margem por categoria e taxa de recompra permite monitorar impacto das ações de marketing. Esses KPIs facilitam ajustes de sortimento, promoções e preços para maximizar rentabilidade do ponto de venda farmacêutico."
+      },
+      "operational": {
+        "physicalSpace": "Compreender o espaço disponível é essencial para layout de gôndolas, balcão farmacêutico, área de estoque e ponto de atendimento. Em farmácias, otimizar circulação e visibilidade de categorias aumenta vendas por metro quadrado e facilita operações de reposição e controle de estoque.",
+        "methodology5w2h": "Aplicar 5W2H organiza responsabilidades, prazos e recursos para abertura e operação da farmácia, contemplando compra de estoque, logística, treinamento de equipe e canais de venda. Esse detalhamento facilita execução e reduz riscos operacionais no lançamento ou expansão do negócio farmacêutico.",
+        "organizationalChart": "Definir quadro organizacional especifica funções essenciais: gestão, farmacêutico responsável, atendentes, compras e logística. Estruturar cargos e responsabilidades contribui para eficiência operacional, controle de custos e melhor qualidade no atendimento, refletindo diretamente na experiência do cliente.",
+        "usefulSoftware": "Softwares de gestão auxiliam controle de estoque, precificação por categoria, emissão de notas e integração de canais de venda. Para farmácias, soluções que otimizam compras, acompanham giro e facilitam vendas por delivery ou retirada aumentam eficiência e reduzem rupturas nas categorias mais importantes.",
+        "customerRelationship": "Estabeleça protocolos de atendimento, treinamento da equipe, gestão de reclamações, coleta de feedback e ações de pós-venda. A experiência do cliente deve ser consistente em todos os pontos de contato.",
+        "processMapping": "Mapear processos padroniza atendimento, controle de estoque, pedidos e recebimento de mercadorias. Em farmácias, processos claros aceleram abertura de caixas, reposição e gestão de promoções, reduzindo erros e melhorando produtividade da equipe no ponto de venda."
+      },
+      "financial": {
+        "costSurvey": "Levantamento de custos inclui aluguel, folha, encargos, compras iniciais de estoque e despesas operacionais. Para farmácias, é crucial separar custos por categoria e considerar giro de estoque para estimar necessidade de capital de giro e otimizar mix entre itens de alta e baixa rotatividade.",
+        "initialInvestment": "Analisar investimento inicial detalha valores para reforma, mobiliário, estoque inicial e capital de giro. Em um plano de negócios para farmácia, estimativas realistas permitem planejar financiamento, identificar pontos de corte e priorizar investimentos que impactam diretamente a abertura e operação nos primeiros meses.",
+        "revenueProjection": "Projeção de receita combina análise de demanda local, mix de produtos e canais de venda para estimar faturamento por categoria. Para farmácias, projetar receitas por medicamentos, OTC e conveniência ajuda a prever margens, planejar compras e estabelecer metas comerciais factíveis.",
+        "indicatorsCalculation": "Calcular indicadores financeiros como payback, ponto de equilíbrio, margem líquida e giro de estoque possibilita comparar cenários e tomar decisões de investimento. Esses indicadores mostram a saúde financeira do projeto e ajudam a ajustar preços e mix para melhorar rentabilidade."
+      },
+      "strategic": {
+        "swotAnalysis": "A análise SWOT identifica forças como localização e mix, fraquezas operacionais, oportunidades de mercado local e ameaças competitivas. Para farmácias, este diagnóstico orienta prioridades estratégicas, direcionando investimentos em sortimento, atendimento e canais de venda para alavancar desempenho.",
+        "goalsPlanning": "O plano de metas define objetivos de curto e médio prazo, como volume de vendas por categoria, metas de margem e índices de fidelização. Metas mensuráveis auxiliam no acompanhamento do desempenho da farmácia e na priorização de ações táticas para atingir resultados planejados."
+      },
+      "risks": {
+        "riskMatrix": "A matriz de risco identifica eventos que afetam operação e receita, avalia probabilidade e impacto e sugere medidas mitigadoras. Em farmácias, riscos operacionais, variações de demanda e rupturas de fornecedores são mapeados para reduzir exposições e proteger o fluxo de caixa do empreendimento."
+      }
+    },
+    "whyHire": {
+      "paragraph1": "A ECONOMICA reúne experiência acumulada que ajuda a evitar erros comuns de empreendedores ao desenvolver um plano de negócios para farmácia. Nossas metodologias consolidadas e escopos claros reduzem incertezas e entregam diagnóstico preciso para decisões de investimento e crescimento.",
+      "paragraph2": "A ECONOMICA é vinculada ao Instituto de Economia da UNICAMP, atuante desde 1992 (mais de 30 anos). Entregamos um Plano de Negócios “fim a fim”: ambientação e estratégia (MVV e Canvas), pesquisa e análise de mercado, plano de marketing (7Ps e indicadores), plano operacional (5W2H, processos, fornecedores), plano financeiro (custos, investimento, projeções e cenários, payback/breakeven), estratégia final (SWOT e BSC), matriz de riscos e relatório de apresentação. O processo é conduzido por equipe dedicada com cronograma claro, reduzindo riscos e acelerando decisões."
+    },
+    "whatIsIncluded": {
+      "strategicPlan": "Definição de Missão, Visão e Valores da empresa e construção do Business Model Canvas, que descreve os blocos fundamentais do negócio (proposta de valor, recursos, canais, clientes e receitas).",
+      "marketResearch": "Inclui análise macroeconômica, análise setorial, mapeamento do público-alvo, análise da concorrência e estudo da região, com base em dados demográficos, espaciais e de consumo.",
+      "marketingPlan": "Aplicação dos 7 P's do marketing, análise do valor da marca e definição de estratégias de marketing e fidelização de clientes, acompanhadas de um painel de indicadores analíticos para acompanhamento das ações.",
+      "operationalPlan": "Estruturação do espaço físico e dos processos operacionais, utilização da ferramenta 5W2H para planejamento de atividades, elaboração do quadro organizacional e indicação de softwares de gestão úteis à operação.",
+      "financialPlan": "Levantamento dos custos fixos e variáveis, análise do investimento inicial, projeção de receitas e fluxo de caixa para 5 anos com três cenários (otimista, moderado e pessimista) e cálculo dos indicadores payback e ponto de equilíbrio.",
+      "strategicPlanFinal": "Realização da análise SWOT (forças, fraquezas, oportunidades e ameaças) e elaboração do Plano de Metas com base no Balanced Scorecard (BSC), conectando perspectivas financeira, de mercado, processos internos e aprendizado.",
+      "riskAnalysis": "Construção da Matriz de Riscos, que identifica e classifica os riscos conforme probabilidade e impacto, oferecendo uma visão clara dos desafios e vulnerabilidades do empreendimento.",
+      "finalReport": "Entrega de um documento consolidado com todas as análises e recomendações, acompanhado de apresentação final à equipe cliente, garantindo compreensão total dos resultados e orientações."
+    }
+  }
+}
