@@ -1,0 +1,67 @@
+{
+  "niche": "Restaurante",
+  "slug": "restaurante",
+  "introduction": {
+    "paragraph1": "Um plano de negócios bem estruturado é fundamental para o sucesso de qualquer empreendimento, especialmente no competitivo setor de restaurante. Ele funciona como um mapa estratégico que orienta decisões, antecipa desafios e maximiza oportunidades de crescimento.",
+    "paragraph2": "Neste guia completo, você descobrirá como construir um plano de negócios robusto para seu restaurante, com metodologias comprovadas e análises detalhadas que farão a diferença entre o sucesso e o fracasso do seu empreendimento."
+  },
+  "sections": {
+    "whyCreate": {
+      "intro": "No setor de alimentação, onde as margens são apertadas e a concorrência é intensa, ter um plano de negócios detalhado não é apenas recomendável – é essencial. Veja as principais razões:",
+      "financing": "Bancos e investidores exigem um plano de negócios sólido antes de liberar recursos. Para um restaurante, isso significa demonstrar claramente a viabilidade financeira, projeções de fluxo de caixa, análise de ponto de equilíbrio e retorno sobre investimento. Sem essas informações detalhadas, as chances de aprovação de crédito são mínimas.",
+      "partners": "Se você planeja trazer sócios para investir ou participar da operação do restaurante, um plano de negócios bem elaborado é sua principal ferramenta de convencimento. Ele demonstra profissionalismo, conhecimento do mercado e uma visão clara de crescimento, elementos essenciais para atrair parceiros qualificados.",
+      "viability": "Antes de investir tempo e recursos significativos, é crucial validar se seu conceito de restaurante é viável. O plano de negócios força você a analisar custos operacionais, ticket médio necessário, volume de clientes, localização ideal e outros fatores críticos que determinarão se o negócio é sustentável a longo prazo."
+    },
+    "whatIsImportant": {
+      "intro": "Um plano de negócios completo para restaurante deve abordar cinco pilares fundamentais, cada um com suas particularidades e metodologias específicas:",
+      "marketResearch": {
+        "macroeconomic": "Compreenda o cenário econômico atual e suas implicações para o setor de alimentação. Fatores como inflação, poder de compra, taxa de desemprego e tendências de consumo impactam diretamente a demanda por serviços de restaurante.",
+        "sector": "O setor de alimentação fora do lar representa uma parcela significativa da economia. Analise tendências como crescimento do delivery, busca por experiências gastronômicas diferenciadas, preferências por alimentação saudável e o impacto de novas tecnologias na operação de restaurantes.",
+        "targetAudience": "Defina com precisão quem são seus clientes ideais: faixa etária, renda, preferências gastronômicas, frequência de consumo e motivações de compra. Para um restaurante, entender se seu público busca praticidade, experiência gastronômica, preço acessível ou exclusividade é fundamental para todo o posicionamento do negócio.",
+        "competition": "Mapeie restaurantes concorrentes na região: cardápios, preços, qualidade, atendimento, ambiente e diferenciais. Identifique gaps no mercado que seu restaurante pode preencher e entenda o que já funciona bem na região.",
+        "region": "A localização é crucial para restaurantes. Analise fluxo de pessoas, características demográficas, renda média, presença de empresas, escolas e residências, disponibilidade de estacionamento, visibilidade e acessibilidade do ponto."
+      },
+      "marketing": {
+        "methodologies": "Para restaurantes, o marketing vai além da propaganda. Inclui presença em redes sociais, parcerias com aplicativos de delivery, programa de fidelidade, eventos especiais, marketing de influência e gestão de reputação online.",
+        "strategies": "Defina os 7 P's do marketing aplicados ao seu restaurante: Produto (cardápio), Preço (estratégia de precificação), Praça (localização e canais de venda), Promoção (comunicação), Pessoas (equipe), Processos (experiência do cliente) e Physical Evidence (ambiente físico).",
+        "customerLoyalty": "No setor de alimentação, clientes recorrentes são a chave da lucratividade. Desenvolva estratégias como programas de pontos, descontos para frequentadores, eventos exclusivos, comunicação personalizada e excelência consistente no atendimento.",
+        "indicators": "Estabeleça KPIs claros: custo de aquisição de clientes, ticket médio, frequência de visitas, taxa de retorno, engajamento em redes sociais, avaliações online e conversão de campanhas promocionais."
+      },
+      "operational": {
+        "physicalSpace": "Planeje a distribuição do espaço: cozinha (pelo menos 30% da área), salão, estoque, área de higienização, vestiários e banheiros. Considere fluxo de trabalho, normas sanitárias, capacidade de atendimento e conforto dos clientes.",
+        "methodology5w2h": "Organize todas as atividades operacionais do restaurante respondendo: O quê? (tarefas), Quem? (responsáveis), Quando? (prazos), Onde? (locais), Por quê? (justificativas), Como? (métodos) e Quanto? (custos).",
+        "organizationalChart": "Defina a estrutura da equipe: chef/cozinheiros, auxiliares de cozinha, garçons, recepcionista, gerente, equipe de limpeza. Especifique funções, responsabilidades e hierarquia.",
+        "usefulSoftware": "Sistemas de gestão são essenciais: PDV (ponto de venda), controle de estoque, gestão financeira, integração com delivery, reservas online e gestão de relacionamento com clientes.",
+        "customerRelationship": "Estabeleça protocolos de atendimento, treinamento da equipe, gestão de reclamações, coleta de feedback e ações de pós-venda. A experiência do cliente deve ser consistente em todos os pontos de contato.",
+        "processMapping": "Documente todos os processos: recebimento de mercadorias, preparo de alimentos, atendimento ao cliente, limpeza, fechamento de caixa. Processos bem definidos garantem qualidade e eficiência operacional."
+      },
+      "financial": {
+        "costSurvey": "Liste todos os custos fixos (aluguel, salários, energia, água, internet) e variáveis (ingredientes, embalagens, comissões de delivery, impostos e despesas com manutenção). Para restaurantes, o custo com ingredientes geralmente representa 30-35% da receita.",
+        "initialInvestment": "Calcule o investimento necessário para abertura: reforma do ponto, equipamentos de cozinha, mobiliário, estoque inicial, licenças, marketing de lançamento e capital de giro para os primeiros meses. Seja realista e adicione uma margem de segurança de 20%.",
+        "revenueProjection": "Projete receitas considerando: capacidade de atendimento, ticket médio, taxa de ocupação, sazonalidade e crescimento gradual. Crie cenários otimista, realista e pessimista para os próximos 3-5 anos.",
+        "indicatorsCalculation": "Calcule indicadores financeiros essenciais: ponto de equilíbrio (quantos clientes/dia são necessários para cobrir custos), payback (tempo para recuperar o investimento), margem de contribuição, ROI e fluxo de caixa projetado."
+      },
+      "strategic": {
+        "swotAnalysis": "Analise Forças (ex: localização privilegiada, chef experiente), Fraquezas (ex: marca nova, orçamento limitado), Oportunidades (ex: crescimento do delivery) e Ameaças (ex: alta concorrência) do seu restaurante. Use essa análise para definir estratégias competitivas.",
+        "goalsPlanning": "Estabeleça metas SMART (Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais) usando o Balanced Scorecard: perspectiva financeira (receita, lucro), clientes (satisfação, retenção), processos internos (eficiência, qualidade) e aprendizado (treinamento, inovação)."
+      },
+      "risks": {
+        "riskMatrix": "Identifique riscos potenciais: problemas com fornecedores, variação de preços de insumos, mudanças na legislação, crises econômicas, reputação online negativa. Classifique cada risco por probabilidade e impacto, e defina planos de mitigação e contingência."
+      }
+    },
+    "whyHire": {
+      "paragraph1": "Uma empresa especializada reúne experiência acumulada que ajuda a evitar erros comuns de empreendedores que não passaram por um processo de desenvolvimento de planos de negócios. Além de possuir metodologias consolidadas de planejamento e escopos claros de atuação.",
+      "paragraph2": "A ECONOMICA é a empresa do Instituto de Economia da UNICAMP, atuante desde 1992 (mais de 30 anos), e entrega um Plano de Negócios "fim a fim" — da ambientação e estratégia inicial (MVV e Canvas) à Pesquisa e Análise de Mercado, Plano de Marketing (7Ps e indicadores), Plano Operacional (5W2H, processos, fornecedores), Plano Financeiro (custos, investimento, projeções e cenários, payback/breakeven), estratégia final (SWOT e BSC), matriz de riscos e relatório de apresentação. O processo é todo conduzido por uma equipe dedicada em cronograma claro, o que reduz riscos e acelera decisões."
+    },
+    "whatIsIncluded": {
+      "strategicPlan": "Definição de Missão, Visão e Valores da empresa e construção do Business Model Canvas, que descreve os blocos fundamentais do negócio (proposta de valor, recursos, canais, clientes e receitas).",
+      "marketResearch": "Inclui análise macroeconômica, análise setorial, mapeamento do público-alvo, análise da concorrência e estudo da região, com base em dados demográficos, espaciais e de consumo.",
+      "marketingPlan": "Aplicação dos 7 P's do marketing, análise do valor da marca e definição de estratégias de marketing e fidelização de clientes, acompanhadas de um painel de indicadores analíticos para acompanhamento das ações.",
+      "operationalPlan": "Estruturação do espaço físico e dos processos operacionais, utilização da ferramenta 5W2H para planejamento de atividades, elaboração do quadro organizacional e indicação de softwares de gestão úteis à operação.",
+      "financialPlan": "Levantamento dos custos fixos e variáveis, análise do investimento inicial, projeção de receitas e fluxo de caixa para 5 anos com três cenários (otimista, moderado e pessimista) e cálculo dos indicadores payback e ponto de equilíbrio.",
+      "strategicPlanFinal": "Realização da análise SWOT (forças, fraquezas, oportunidades e ameaças) e elaboração do Plano de Metas com base no Balanced Scorecard (BSC), conectando perspectivas financeira, de mercado, processos internos e aprendizado.",
+      "riskAnalysis": "Construção da Matriz de Riscos, que identifica e classifica os riscos conforme probabilidade e impacto, oferecendo uma visão clara dos desafios e vulnerabilidades do empreendimento.",
+      "finalReport": "Entrega de um documento consolidado com todas as análises e recomendações, acompanhado de apresentação final à equipe cliente, garantindo compreensão total dos resultados e orientações."
+    }
+  }
+}
