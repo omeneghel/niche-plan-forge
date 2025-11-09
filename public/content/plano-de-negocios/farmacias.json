@@ -1,0 +1,226 @@
+{
+  "slug": "plano-de-negocios/farmacias",
+  "urlPath": "/plano-de-negocios/farmacias",
+  "meta": {
+    "title": "Plano de Negócios para Farmácias | ECONOMICA",
+    "description": "Entenda como o plano de negócios para farmácias estrutura decisões de mercado, operação e finanças com base em análise e método.",
+    "canonical": "https://economicajr.com.br/plano-de-negocios/farmacias",
+    "ogTitle": "Plano de Negócios para Farmácias",
+    "ogDescription": "Metodologia da ECONOMICA para farmácias: estratégia, viabilidade e gestão para decisões seguras."
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Plano de Negócios",
+      "href": "/plano-de-negocios"
+    },
+    {
+      "label": "Farmácias"
+    }
+  ],
+  "hero": {
+    "title": "Plano de Negócios para Farmácias: uma estratégia sólida para o seu negócio",
+    "subtitle": "Metodologia de <strong>planos de negócios para farmácias</strong> pela ECONOMICA — estratégia, viabilidade e gestão para escalar com segurança."
+  },
+  "sections": [
+    {
+      "id": "por-que-montar",
+      "title": "Por que montar um plano de negócios para farmácias?",
+      "paragraphs": [
+        "Os planos de negócios para farmácias formalizam hipóteses de mercado, canais e finanças, permitindo decisões mais seguras. A análise conecta oferta, mix e operação, com <strong>foco</strong> em métricas e projeções que reduzem incerteza e suportam escolha de investimentos."
+      ],
+      "bullets": [
+        {
+          "label": "Financiamento e crédito",
+          "text": "Um plano bem estruturado demonstra fluxo de caixa, projeções e premissas detalhadas, facilitando a avaliação por investidores ou financiadores. Em farmácias, evidenciar giro de estoque, sazonalidade e capacidade de atendimento reduz o risco percebido e melhora a qualidade do diálogo para captação."
+        },
+        {
+          "label": "Entrada de sócios",
+          "text": "Para entrada de sócios, o documento organiza governança, cenários e métricas essenciais, auxiliando negociações. Em farmácias, apresentar critérios de avaliação, horizontes de investimento e gatilhos de saída cria transparência, alinhando expectativas sobre retorno, papéis e compromissos entre os parceiros."
+        },
+        {
+          "label": "Viabilidade",
+          "text": "A avaliação de viabilidade testa premissas de demanda, capacidade operacional, custos e estratégias de precificação em cenários distintos. Em farmácias, integrar ponto de equilíbrio, margens por categoria e sensibilidade a mix e preços permite identificar alavancas e níveis de risco para orientar decisões de investimento."
+        }
+      ]
+    },
+    {
+      "id": "o-que-e-importante",
+      "title": "O que é importante na hora de construir um plano de negócios para farmácias?",
+      "paragraphs": [
+        "Visão holística do plano une mercado, marketing, operação e finanças, garantindo coerência estratégica. A integração define mix, canais e investimentos prioritários, com <strong>métricas</strong> e cenários que orientam trade-offs e decisões práticas para farmácias."
+      ],
+      "subsections": [
+        {
+          "title": "Pesquisa e Análise de Mercado",
+          "items": [
+            {
+              "label": "Análise macroeconômica",
+              "text": "A análise macroeconômica considera renda, inflação e comportamento de consumo que afetam demanda por medicamentos e itens de saúde. Em farmácias, essas variáveis calibram premissas de preço, volume e sazonalidade, permitindo construir cenários plausíveis para projeções financeiras."
+            },
+            {
+              "label": "Setor e concorrência",
+              "text": "Mapear o setor identifica redes, independentes e formatos de serviço, destacando diferenciais e lacunas de oferta. Para farmácias, benchmarks e comparáveis geram insights sobre posicionamento, políticas de preço e mix ideal, reduzindo incertezas sobre participação e estratégia competitiva."
+            },
+            {
+              "label": "Público-alvo",
+              "text": "Definir o público detalha perfis, motivações e ticket esperado, além de sensibilidade a preço e canais. Em farmácias, essa segmentação orienta sortimento, serviços e comunicações, impactando metas de aquisição, retenção e receita recorrente por cliente."
+            },
+            {
+              "label": "Região",
+              "text": "A análise territorial avalia fluxo de pessoas, acessibilidade, perfil demográfico e concorrência local. Em farmácias, esses fatores orientam estimativas de volume, mix por categoria e sazonalidade, além de indicar oportunidades para serviços complementares ou ajustes operacionais conforme comportamento local."
+            }
+          ]
+        },
+        {
+          "title": "Plano de Marketing",
+          "items": [
+            {
+              "label": "7 Ps",
+              "text": "Os 7 Ps adaptam-se ao varejo farmacêutico: produto e serviços, política de preço, praça, promoção, pessoas, processos e evidências. Essa estrutura traduz posicionamento em propostas de valor e ações práticas para definir sortimento, atendimento e execução comercial em farmácias."
+            },
+            {
+              "label": "Canais",
+              "text": "Estratégias de canais combinam loja física, serviços no ponto, parcerias e presença digital. Em farmácias, priorizar aquisição orgânica e paga, parcerias locais e CRM permite escalar captação com controle de custos, mensurando funil e otimizando investimento por canal."
+            },
+            {
+              "label": "Fidelização",
+              "text": "Programas de fidelização estruturam ofertas, serviços e relacionamento para aumentar frequência de compra. Em farmácias, definir rituais de retenção e campanhas segmentadas eleva LTV e reduz churn, com metas claras de frequência, ticket e satisfação."
+            },
+            {
+              "label": "KPIs",
+              "text": "Definir CAC, LTV, taxa de conversão, ticket médio e ROI permite priorizar canais e ações. Em farmácias, acompanhar margens por categoria, giro de estoque e reputação conecta indicadores a ajustes de preço, sortimento e investimentos em marketing."
+            }
+          ]
+        },
+        {
+          "title": "Plano Operacional",
+          "items": [
+            {
+              "label": "Layout e normas",
+              "text": "Fluxo de atendimento, layout de gôndolas e padronização de processos reduzem tempos e erros e impactam custo e qualidade. Em farmácias, otimizar disposição, áreas de atendimento e backoffice conecta capacidade operacional à experiência do cliente e à eficiência dos custos."
+            },
+            {
+              "label": "5W2H",
+              "text": "O 5W2H organiza o que fazer, por que, quem, quando, onde, como e quanto custa, traduzindo estratégia em tarefas. Em farmácias, esse formato detalha implantação, rotinas de estoque e responsabilidades, aumentando previsibilidade e controle operacional."
+            },
+            {
+              "label": "Equipe",
+              "text": "Dimensionar equipe e definir papéis assegura cobertura de atendimento, estoque e serviços clínicos, com perfis adequados. Em farmácias, alinhar responsabildades a picos de demanda e metas de serviço garante consistência operacional e impacto direto na satisfação do cliente."
+            },
+            {
+              "label": "Tecnologia",
+              "text": "Sistemas de gestão, PDV integrado e controles de estoque são centrais para visibilidade e eficiência. Em farmácias, integrações com CRM e relatórios operacionais reduzem rupturas, melhoram giro de estoque e suportam decisões táticas de compra e preço."
+            }
+          ]
+        },
+        {
+          "title": "Plano Financeiro",
+          "items": [
+            {
+              "label": "Custos",
+              "text": "Mapear custos fixos, variáveis e CMV permite entender alavancas de margem e pontos sensíveis. Em farmácias, controle de estoque, perdas e descontos impactam fortemente as margens, exigindo conexão direta entre estrutura de custos e política de precificação."
+            },
+            {
+              "label": "Investimento",
+              "text": "Detalhar investimentos iniciais em obras, mobiliário, equipamentos e capital de giro é essencial para cenários realistas. Em farmácias, discriminar esses itens por categoria possibilita estimar prazos de retorno e necessidades de caixa conforme mix e dinâmica de vendas."
+            },
+            {
+              "label": "Receitas",
+              "text": "Projeções de receita devem explicitar premissas de volume, ticket e sazonalidade por categoria. Em farmácias, segmentar receitas entre prescrição, OTC e serviços facilita a construção de cenários e a rastreabilidade das hipóteses nas projeções financeiras."
+            },
+            {
+              "label": "Indicadores",
+              "text": "Indicadores como breakeven, payback, margens por categoria e fluxo de caixa evidenciam sustentabilidade. Em farmácias, simular sensibilidades a preço, mix e giro permite avaliar riscos e identificar alavancas para melhorar resultado operacional e financeiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plano-estrategico",
+      "title": "Plano estratégico",
+      "paragraphs": [
+        "Sintetizamos direcionadores estratégicos para priorizar investimento em sortimento, canais e serviços, conectando objetivos a métricas acionáveis. O plano destaca iniciativas e metas com <strong>foco</strong> em diferenciação e eficiência operacional para farmácias."
+      ],
+      "bullets": [
+        {
+          "label": "SWOT",
+          "text": "A análise SWOT organiza forças, fraquezas, oportunidades e ameaças para orientar foco e mitigação. Em farmácias, o diagnóstico sustenta escolhas sobre sortimento, atendimento e investimentos, transformando apontamentos estratégicos em ações priorizadas."
+        },
+        {
+          "label": "BSC",
+          "text": "O BSC articula metas por perspectiva financeira, clientes, processos e aprendizado, com indicadores e cadência de revisão. Para farmácias, essa abordagem viabiliza acompanhamento de receita, eficiência operacional e capacitação, alinhando execução à estratégia."
+        }
+      ]
+    },
+    {
+      "id": "analise-de-riscos",
+      "title": "Análise de riscos",
+      "paragraphs": [
+        "A matriz de riscos classifica probabilidade e impacto para priorizar mitigação e contingência, definindo responsáveis e ações. Em farmácias, o mapeamento foca riscos operacionais e comerciais, orientando respostas rápidas e escolhas sobre alavancas estratégicas conforme prioridade."
+      ]
+    },
+    {
+      "id": "por-que-contratar",
+      "title": "Por que contratar a ECONOMICA?",
+      "paragraphs": [
+        "A ECONOMICA aplica metodologia analítica e imparcial para elaborar planos de negócios para farmácias, priorizando clareza de premissas, cenários e métricas acionáveis. Entregamos diagnósticos que facilitam a tomada de decisão com escopo definido e entregáveis claros.",
+        "Baseada na experiência institucional da ECONOMICA na UNICAMP, nossa abordagem combina pesquisa aplicada e método acadêmico-prático. Fornecemos análises e recomendações que orientam decisões estratégicas em farmácias, sem prestação de execução operacional."
+      ]
+    },
+    {
+      "id": "o-que-inclui",
+      "title": "O que estará incluído no seu plano de negócios?",
+      "featureCards": [
+        {
+          "icon": "Target",
+          "title": "Plano estratégico inicial",
+          "description": "Síntese de missão, visão e valores e Canvas do negócio, destacando direcionadores de valor e prioridades para os primeiros passos do projeto."
+        },
+        {
+          "icon": "Search",
+          "title": "Pesquisa e mercado",
+          "description": "Relatório com tendências, perfil de público, mapeamento concorrencial e análise regional para embasar decisões de posicionamento e localização."
+        },
+        {
+          "icon": "Megaphone",
+          "title": "Plano de marketing",
+          "description": "Plano com 7 Ps, definição de canais prioritários e KPIs para orientar aquisição, retenção e comunicação integrada."
+        },
+        {
+          "icon": "Settings",
+          "title": "Plano operacional",
+          "description": "Mapeamento de processos, dimensionamento de equipe e especificações tecnológicas para garantir consistência operacional."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Plano financeiro",
+          "description": "Projeções de receitas, custos e indicadores-chave para avaliar viabilidade e sensibilidades do negócio."
+        },
+        {
+          "icon": "PieChart",
+          "title": "Plano estratégico final",
+          "description": "SWOT consolidada e plano de metas no formato BSC para orientar execução e prioridades estratégicas."
+        },
+        {
+          "icon": "Shield",
+          "title": "Análise de riscos",
+          "description": "Matriz de riscos com ações de mitigação e responsáveis, priorizando impactos críticos ao negócio."
+        },
+        {
+          "icon": "FileText",
+          "title": "Relatório final",
+          "description": "Documento consolidado com diagnóstico, cenários e apresentação executiva para apoiar a tomada de decisão."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "label": "Agendar Diagnóstico Gratuito",
+    "href": "/contato"
+  }
+}
