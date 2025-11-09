@@ -423,30 +423,34 @@ const Index = () => {
         </main>
 
         {/* Footer */}
-        <footer className="bg-foreground text-background py-12 px-4 mt-16">
+        <footer className="bg-hero-gradient text-primary-foreground py-12 px-4 mt-16">
           <div className="container mx-auto max-w-7xl">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
               <div>
-                <h3 className="text-lg font-bold mb-4">ECONOMICA</h3>
-                <p className="text-sm text-background/80 leading-relaxed">
+                <img 
+                  src="/src/assets/economica-logo.png" 
+                  alt="ECONOMICA Logo" 
+                  className="h-10 mb-4 brightness-0 invert"
+                />
+                <p className="text-sm text-primary-foreground/90 leading-relaxed">
                   Empresa Júnior do Instituto de Economia da UNICAMP. Atuando desde 1992 na consultoria empresarial.
                 </p>
               </div>
               <div>
                 <h3 className="text-lg font-bold mb-4">Serviços</h3>
-                <ul className="space-y-2 text-sm text-background/80">
+                <ul className="space-y-2 text-sm text-primary-foreground/90">
                   <li>
-                    <a href="/plano-de-negocios" className="hover:text-background transition-colors">
+                    <a href="/plano-de-negocios" className="hover:text-primary-foreground transition-colors">
                       Plano de Negócios
                     </a>
                   </li>
                   <li>
-                    <a href="/pesquisa-mercado" className="hover:text-background transition-colors">
+                    <a href="/pesquisa-mercado" className="hover:text-primary-foreground transition-colors">
                       Pesquisa de Mercado
                     </a>
                   </li>
                   <li>
-                    <a href="/consultoria" className="hover:text-background transition-colors">
+                    <a href="/consultoria" className="hover:text-primary-foreground transition-colors">
                       Consultoria Empresarial
                     </a>
                   </li>
@@ -454,14 +458,14 @@ const Index = () => {
               </div>
               <div>
                 <h3 className="text-lg font-bold mb-4">Contato</h3>
-                <ul className="space-y-2 text-sm text-background/80">
+                <ul className="space-y-2 text-sm text-primary-foreground/90">
                   <li>contato@economicajr.com.br</li>
                   <li>Campinas - SP</li>
                   <li>UNICAMP</li>
                 </ul>
               </div>
             </div>
-            <div className="border-t border-background/20 pt-8 text-center text-sm text-background/70">
+            <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/80">
               <p>
                 &copy; 2025 ECONOMICA - Empresa Júnior do Instituto de Economia da UNICAMP. Todos os direitos
                 reservados.

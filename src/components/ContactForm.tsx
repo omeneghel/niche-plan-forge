@@ -113,7 +113,7 @@ export const ContactForm = ({ niche }: ContactFormProps) => {
 
         <Button 
           type="submit" 
-          className="w-full h-14 bg-accent text-accent-foreground hover:bg-accent/90 font-bold text-base shadow-md hover:shadow-lg transition-all px-6 py-4"
+          className="w-full h-14 bg-accent text-accent-foreground hover:bg-accent/90 font-bold text-sm shadow-md hover:shadow-lg transition-all px-6 py-4"
           disabled={isSubmitting}
         >
           {isSubmitting ? "Enviando..." : "Fale com um Consultor Especialista"}
