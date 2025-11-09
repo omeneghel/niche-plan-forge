@@ -281,23 +281,45 @@ const Index = () => {
                 <h2 className="text-3xl md:text-4xl font-bold mb-4">
                   Solicite seu Plano de Negócios para {niche} agora!
                 </h2>
-                <p className="text-lg md:text-xl mb-6 text-primary-foreground/95">
-                  Entre em contato com a ECONOMICA e transforme sua ideia em um negócio de sucesso.
+                <p className="text-lg md:text-xl mb-6 text-primary-foreground/95 font-medium">
+                  Não deixe seu projeto só no papel. Transforme sua ideia em um negócio de sucesso com a ECONOMICA.
                 </p>
                 <p className="text-base text-primary-foreground/85 mb-8">
-                  Preencha o formulário ao lado e nossa equipe entrará em contato em até 24 horas.
+                  Nossa equipe especializada está pronta para criar um plano completo e personalizado para o seu {niche.toLowerCase()}.
                 </p>
-                <div className="inline-flex items-center gap-2 text-sm font-semibold bg-primary-foreground/10 backdrop-blur-sm px-6 py-3 rounded-full">
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                
+                <button
+                  onClick={() => {
+                    const form = document.getElementById('contact-form-section');
+                    form?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                  }}
+                  className="inline-flex items-center gap-3 bg-accent hover:bg-accent/90 text-accent-foreground font-bold text-lg px-8 py-4 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 mb-6"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  Mais de 30 anos de experiência
+                  Quero Solicitar Meu Plano de Negócios
+                </button>
+                
+                <div className="flex items-center justify-center gap-8 flex-wrap">
+                  <div className="inline-flex items-center gap-2 text-sm font-semibold bg-primary-foreground/10 backdrop-blur-sm px-4 py-2 rounded-full">
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    30+ anos de experiência
+                  </div>
+                  <div className="inline-flex items-center gap-2 text-sm font-semibold bg-primary-foreground/10 backdrop-blur-sm px-4 py-2 rounded-full">
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    Resposta em 24h
+                  </div>
                 </div>
               </div>
             </article>
 
             {/* Sidebar Column */}
-            <aside className="lg:col-span-1">
+            <aside className="lg:col-span-1" id="contact-form-section">
               <ContactForm niche={niche} />
             </aside>
           </div>

@@ -60,13 +60,14 @@ export const ContactForm = ({ niche }: ContactFormProps) => {
   };
 
   return (
-    <div className="bg-card rounded-xl border border-border p-6 shadow-card-hover sticky top-6">
-      <div className="bg-accent/10 rounded-lg p-4 mb-6 border border-accent/20">
-        <h3 className="text-xl font-bold text-foreground mb-2">
-          🎯 Solicite seu Plano de Negócios!
+    <div className="bg-card rounded-xl border-2 border-accent/30 p-6 shadow-card-hover sticky top-6 animate-fade-in">
+      <div className="bg-gradient-to-br from-accent/15 to-accent/5 rounded-lg p-5 mb-6 border-2 border-accent/30 relative overflow-hidden">
+        <div className="absolute top-0 right-0 w-20 h-20 bg-accent/10 rounded-full blur-2xl"></div>
+        <h3 className="text-2xl font-bold text-foreground mb-2 relative">
+          📋 Solicite seu Plano de Negócios!
         </h3>
-        <p className="text-sm text-muted-foreground">
-          Preencha o formulário abaixo e nossa equipe entrará em contato
+        <p className="text-sm text-muted-foreground font-medium relative">
+          Preencha os dados abaixo e receba uma proposta personalizada
         </p>
       </div>
 
