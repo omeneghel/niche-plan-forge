@@ -81,28 +81,50 @@ export default function IndexDynamic() {
   if (isError || !data) return <main className="p-6 max-w-3xl mx-auto text-xl">Página não encontrada</main>;
 
   return (
-    <main className="p-6 max-w-4xl mx-auto">
+    <div className="min-h-screen bg-background text-foreground">
       <Helmet>
         <title>{data.title}</title>
       </Helmet>
 
-      <h1 className="text-3xl font-bold">{data.hero?.headline ?? data.title}</h1>
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-0 -z-10 opacity-40 bg-gradient-to-br from-primary/20 via-sky-500/10 to-emerald-400/20" />
+        <div className="mx-auto max-w-5xl px-6 py-16">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
+            {data.hero?.headline ?? data.title}
+          </h1>
+          {data.hero?.subheadline && (
+            <p className="mt-4 text-lg text-muted-foreground max-w-3xl">
+              {data.hero.subheadline}
+            </p>
+          )}
+          {data.cta?.label && (
+            <a
+              href={data.cta.href ?? "#"}
+              className="mt-8 inline-flex items-center rounded-xl px-5 py-3 bg-primary text-primary-foreground shadow"
+            >
+              {data.cta.label}
+            </a>
+          )}
+        </div>
+      </section>
 
-      <div className="mt-8 space-y-8">
-        {(data.sections ?? []).map((s, i) => (
-          <section key={i} className="space-y-2">
-            {s.title && <h2 className="text-xl font-semibold">{s.title}</h2>}
-            {s.text && <p style={{ whiteSpace: "pre-line" }}>{s.text}</p>}
-            {s.bullets && s.bullets.length > 0 && (
-              <ul className="list-disc pl-6 space-y-1">
-                {s.bullets.map((b, j) => (
-                  <li key={j}>{b}</li>
-                ))}
-              </ul>
-            )}
-          </section>
-        ))}
-      </div>
-    </main>
+      <section className="mx-auto max-w-5xl px-6 py-12">
+        <article className="prose prose-slate dark:prose-invert max-w-none">
+          {(data.sections ?? []).map((s, i) => (
+            <section key={i}>
+              {s.title && <h2>{s.title}</h2>}
+              {s.text && <p style={{ whiteSpace: "pre-line" }}>{s.text}</p>}
+              {s.bullets && s.bullets.length > 0 && (
+                <ul>
+                  {s.bullets.map((b, j) => (
+                    <li key={j}>{b}</li>
+                  ))}
+                </ul>
+              )}
+            </section>
+          ))}
+        </article>
+      </section>
+    </div>
   );
 }
