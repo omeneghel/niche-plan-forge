@@ -83,7 +83,7 @@ const Index = () => {
                 id="o-que-e-importante"
                 title={`O que é importante na hora de construir um plano de negócios para ${niche}?`}
               >
-                <p>
+                <p className="mb-6">
                   Um plano de negócios completo para restaurante deve abordar cinco pilares fundamentais, cada um com
                   suas particularidades e metodologias específicas:
                 </p>
