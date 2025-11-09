@@ -60,58 +60,67 @@ export const ContactForm = ({ niche }: ContactFormProps) => {
   };
 
   return (
-    <div className="bg-card rounded-lg border border-border p-6 shadow-card sticky top-6">
-      <h3 className="text-xl font-bold text-foreground mb-2">
-        Solicite seu Plano de Negócios!
-      </h3>
-      <p className="text-sm text-muted-foreground mb-6">
-        Preencha o formulário abaixo e nossa equipe entrará em contato
-      </p>
+    <div className="bg-card rounded-xl border border-border p-6 shadow-card-hover sticky top-6">
+      <div className="bg-accent/10 rounded-lg p-4 mb-6 border border-accent/20">
+        <h3 className="text-xl font-bold text-foreground mb-2">
+          🎯 Solicite seu Plano de Negócios!
+        </h3>
+        <p className="text-sm text-muted-foreground">
+          Preencha o formulário abaixo e nossa equipe entrará em contato
+        </p>
+      </div>
 
       <form onSubmit={handleSubmit} className="space-y-4">
         <div className="space-y-2">
-          <Label htmlFor="name">Nome Completo</Label>
+          <Label htmlFor="name" className="text-sm font-semibold">Nome Completo</Label>
           <Input
             id="name"
             type="text"
             placeholder="Seu nome completo"
             value={formData.name}
             onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+            className="h-11"
             required
           />
         </div>
 
         <div className="space-y-2">
-          <Label htmlFor="email">Seu Melhor E-mail</Label>
+          <Label htmlFor="email" className="text-sm font-semibold">Seu Melhor E-mail</Label>
           <Input
             id="email"
             type="email"
             placeholder="seu@email.com"
             value={formData.email}
             onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+            className="h-11"
             required
           />
         </div>
 
         <div className="space-y-2">
-          <Label htmlFor="phone">Telefone/WhatsApp</Label>
+          <Label htmlFor="phone" className="text-sm font-semibold">Telefone/WhatsApp</Label>
           <Input
             id="phone"
             type="tel"
             placeholder="(00) 00000-0000"
             value={formData.phone}
             onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+            className="h-11"
             required
           />
         </div>
 
         <Button 
           type="submit" 
-          className="w-full bg-accent text-accent-foreground hover:bg-accent/90"
+          className="w-full h-12 bg-accent text-accent-foreground hover:bg-accent/90 font-bold text-base shadow-md hover:shadow-lg transition-all"
           disabled={isSubmitting}
         >
           {isSubmitting ? "Enviando..." : "Fale com um Consultor Especialista"}
         </Button>
+        
+        <p className="text-xs text-center text-muted-foreground pt-2">
+          ✓ Resposta em até 24h | ✓ Sem compromisso
+        </p>
       </form>
     </div>
   );

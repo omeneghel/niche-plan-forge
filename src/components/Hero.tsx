@@ -13,17 +13,28 @@ export const Hero = ({ niche }: HeroProps) => {
   ];
 
   return (
-    <section className="bg-hero-gradient text-primary-foreground py-16 px-4 md:py-20">
-      <div className="container mx-auto max-w-7xl">
+    <section className="relative bg-hero-gradient text-primary-foreground py-20 px-4 md:py-28 overflow-hidden">
+      <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-transparent"></div>
+      
+      <div className="container mx-auto max-w-7xl relative z-10">
         <Breadcrumb items={breadcrumbItems} />
         
-        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight">
-          Plano de Negócios para {niche}: Uma Estratégia Sólida para o Seu Negócio
-        </h1>
-        <p className="text-lg md:text-xl text-primary-foreground/90 max-w-3xl">
-          Descubra como um plano de negócios é crucial para o sucesso de um(a) {niche} e como estruturar o seu negócio com eficiência.
-        </p>
+        <div className="max-w-4xl">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+            Plano de Negócios para {niche}
+          </h1>
+          <p className="text-xl md:text-2xl text-primary-foreground/95 font-medium mb-4">
+            Uma Estratégia Sólida para o Seu Negócio
+          </p>
+          <p className="text-lg md:text-xl text-primary-foreground/85 max-w-3xl leading-relaxed">
+            Descubra como um plano de negócios é crucial para o sucesso de um(a) {niche.toLowerCase()} e como estruturar o seu negócio com eficiência através da consultoria especializada da ECONOMICA.
+          </p>
+        </div>
       </div>
+      
+      {/* Decorative elements */}
+      <div className="absolute bottom-0 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl"></div>
+      <div className="absolute top-0 left-0 w-64 h-64 bg-accent/5 rounded-full blur-3xl"></div>
     </section>
   );
 };

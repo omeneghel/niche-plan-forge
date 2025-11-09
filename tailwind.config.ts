@@ -47,6 +47,10 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          foreground: "hsl(var(--success-foreground))",
+        },
       },
       backgroundImage: {
         'hero-gradient': 'var(--hero-gradient)',
@@ -54,6 +58,9 @@ export default {
       boxShadow: {
         'card': 'var(--card-shadow)',
         'card-hover': 'var(--card-shadow-hover)',
+      },
+      fontFamily: {
+        'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
       borderRadius: {
         lg: "var(--radius)",

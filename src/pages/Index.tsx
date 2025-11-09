@@ -1,6 +1,8 @@
 import { Hero } from "@/components/Hero";
+import { Header } from "@/components/Header";
 import { ContactForm } from "@/components/ContactForm";
 import { ContentSection, Subsection } from "@/components/ContentSection";
+import { StatsSection } from "@/components/StatsSection";
 import { Helmet } from "react-helmet";
 
 const Index = () => {
@@ -16,7 +18,9 @@ const Index = () => {
       </Helmet>
 
       <div className="min-h-screen bg-background">
+        <Header />
         <Hero niche={niche} />
+        <StatsSection />
 
         <main className="container mx-auto max-w-7xl px-4 py-12">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
@@ -273,16 +277,22 @@ const Index = () => {
               </ContentSection>
 
               {/* CTA Final */}
-              <div className="bg-primary text-primary-foreground rounded-lg p-8 text-center">
-                <h2 className="text-2xl md:text-3xl font-bold mb-4">
+              <div className="bg-gradient-to-br from-primary to-primary/90 text-primary-foreground rounded-2xl p-8 md:p-10 text-center shadow-lg">
+                <h2 className="text-3xl md:text-4xl font-bold mb-4">
                   Solicite seu Plano de Negócios para {niche} agora!
                 </h2>
-                <p className="text-lg mb-6 text-primary-foreground/90">
+                <p className="text-lg md:text-xl mb-6 text-primary-foreground/95">
                   Entre em contato com a ECONOMICA e transforme sua ideia em um negócio de sucesso.
                 </p>
-                <p className="text-sm text-primary-foreground/80">
+                <p className="text-base text-primary-foreground/85 mb-8">
                   Preencha o formulário ao lado e nossa equipe entrará em contato em até 24 horas.
                 </p>
+                <div className="inline-flex items-center gap-2 text-sm font-semibold bg-primary-foreground/10 backdrop-blur-sm px-6 py-3 rounded-full">
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Mais de 30 anos de experiência
+                </div>
               </div>
             </article>
 
@@ -294,12 +304,39 @@ const Index = () => {
         </main>
 
         {/* Footer */}
-        <footer className="bg-muted border-t border-border py-8 px-4 mt-16">
-          <div className="container mx-auto max-w-7xl text-center text-sm text-muted-foreground">
-            <p>
-              &copy; 2025 ECONOMICA - Empresa Júnior do Instituto de Economia da UNICAMP. 
-              Todos os direitos reservados.
-            </p>
+        <footer className="bg-foreground text-background py-12 px-4 mt-16">
+          <div className="container mx-auto max-w-7xl">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+              <div>
+                <h3 className="text-lg font-bold mb-4">ECONOMICA</h3>
+                <p className="text-sm text-background/80 leading-relaxed">
+                  Empresa Júnior do Instituto de Economia da UNICAMP. 
+                  Atuando desde 1992 na consultoria empresarial.
+                </p>
+              </div>
+              <div>
+                <h3 className="text-lg font-bold mb-4">Serviços</h3>
+                <ul className="space-y-2 text-sm text-background/80">
+                  <li><a href="/plano-de-negocios" className="hover:text-background transition-colors">Plano de Negócios</a></li>
+                  <li><a href="/pesquisa-mercado" className="hover:text-background transition-colors">Pesquisa de Mercado</a></li>
+                  <li><a href="/consultoria" className="hover:text-background transition-colors">Consultoria Empresarial</a></li>
+                </ul>
+              </div>
+              <div>
+                <h3 className="text-lg font-bold mb-4">Contato</h3>
+                <ul className="space-y-2 text-sm text-background/80">
+                  <li>contato@economicajr.com.br</li>
+                  <li>Campinas - SP</li>
+                  <li>UNICAMP</li>
+                </ul>
+              </div>
+            </div>
+            <div className="border-t border-background/20 pt-8 text-center text-sm text-background/70">
+              <p>
+                &copy; 2025 ECONOMICA - Empresa Júnior do Instituto de Economia da UNICAMP. 
+                Todos os direitos reservados.
+              </p>
+            </div>
           </div>
         </footer>
       </div>
