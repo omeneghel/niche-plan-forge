@@ -51,9 +51,13 @@ export default {
           DEFAULT: "hsl(var(--success))",
           foreground: "hsl(var(--success-foreground))",
         },
+        'dark-blue': {
+          DEFAULT: "hsl(var(--dark-blue))",
+        },
       },
       backgroundImage: {
         'hero-gradient': 'var(--hero-gradient)',
+        'dark-blue-gradient': 'var(--dark-blue-gradient)',
       },
       boxShadow: {
         'card': 'var(--card-shadow)',
