@@ -1,0 +1,226 @@
+{
+  "slug": "plano-de-negocios/oticas",
+  "urlPath": "/plano-de-negocios/oticas",
+  "meta": {
+    "title": "Plano de Negócios para Óticas | ECONOMICA",
+    "description": "Entenda como o plano de negócios para óticas estrutura decisões de mercado, operação e finanças com base em análise e método.",
+    "canonical": "https://economicajr.com.br/plano-de-negocios/oticas",
+    "ogTitle": "Plano de Negócios para Óticas",
+    "ogDescription": "Metodologia da ECONOMICA para óticas: estratégia, viabilidade e gestão para decisões seguras."
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Plano de Negócios",
+      "href": "/plano-de-negocios"
+    },
+    {
+      "label": "Óticas"
+    }
+  ],
+  "hero": {
+    "title": "Plano de Negócios para Óticas: uma estratégia sólida para o seu negócio",
+    "subtitle": "Metodologia de <strong>planos de negócios para óticas</strong> pela ECONOMICA — estratégia, viabilidade e gestão para escalar com segurança."
+  },
+  "sections": [
+    {
+      "id": "por-que-montar",
+      "title": "Por que montar um plano de negócios para óticas?",
+      "paragraphs": [
+        "Os planos de negócios para óticas articulam oferta, canais e finanças com base em pesquisa de mercado e projeções. Este documento transforma incertezas em hipóteses testáveis e orienta decisões de investimento e operação, enfatizando <strong>viabilidade</strong> e consistência."
+      ],
+      "bullets": [
+        {
+          "label": "Financiamento e crédito",
+          "text": "Um plano bem estruturado em óticas demonstra premissas claras e cenários plausíveis, reduzindo risco percebido por investidores e instituições. Documenta demanda, capacidade e projeções de caixa, apoiando solicitações de recursos com transparência e coerência entre estimativas."
+        },
+        {
+          "label": "Entrada de sócios",
+          "text": "Para atrair parceiros, o plano organiza visão, modelo de receita e indicadores-chave. Em óticas, ele define critérios de avaliação, cenários e governança, alinhando expectativas sobre participação, retorno e responsabilidades, o que facilita negociações e decisões estratégicas."
+        },
+        {
+          "label": "Viabilidade",
+          "text": "O documento conecta premissas de demanda, capacidade produtiva, custos e política de preços em óticas, permitindo estimar ponto de equilíbrio e margens. Testa hipóteses em cenários distintos e identifica alavancas e riscos que impactam a sustentabilidade financeira do negócio."
+        }
+      ]
+    },
+    {
+      "id": "o-que-e-importante",
+      "title": "O que é importante na hora de construir um plano de negócios para óticas?",
+      "paragraphs": [
+        "Um bom plano integra mercado, marketing, operação e finanças com objetivos claros e cronograma de execução, traduzindo análise em decisões. A abordagem prioriza <strong>estratégia</strong> e premissas testáveis para reduzir incertezas e facilitar escolhas gerenciais."
+      ],
+      "subsections": [
+        {
+          "title": "Pesquisa e Análise de Mercado",
+          "items": [
+            {
+              "label": "Análise macroeconômica",
+              "text": "Avaliar variáveis macro que afetam hábitos de consumo e poder aquisitivo é essencial para estimar demanda em óticas. Essas tendências moldam premissas de preço, frequência de compra e sensibilidade a promoções, servindo de base para cenários e stress tests."
+            },
+            {
+              "label": "Setor e concorrência",
+              "text": "Mapear concorrentes, posicionamentos e lacunas permite identificar diferenciais competitivos em óticas. Benchmarks sobre sortimento, experiência e preço orientam decisões de posicionamento e mix, reduzindo incertezas ao calibrar oferta e canais de venda."
+            },
+            {
+              "label": "Público-alvo",
+              "text": "Definir perfis, motivações de compra e ticket médio ajuda a ajustar sortimento e comunicação em óticas. Conectar jornada do cliente a critérios de escolha e sensibilidade a preço e serviço permite projetar metas de aquisição, conversão e retenção coerentes."
+            },
+            {
+              "label": "Região",
+              "text": "A análise territorial considera fluxo de pessoas, acessibilidade e características locais que influenciam volume e mix em óticas. Esses elementos orientam projeções de vendas, sazonalidade e escolha de formatos de ponto de venda, otimizando expectativas de tráfego."
+            }
+          ]
+        },
+        {
+          "title": "Plano de Marketing",
+          "items": [
+            {
+              "label": "7 Ps",
+              "text": "Adaptar Produto, Preço, Praça, Promoção, Pessoas, Processos e Evidências para óticas gera proposta de valor coerente. Cada P se traduz em decisões operacionais e de comunicação que sustentam posicionamento, diferenciação e metas comerciais."
+            },
+            {
+              "label": "Canais",
+              "text": "Combinar aquisição orgânica, tráfego pago, parcerias com profissionais de saúde ocular e presença física maximiza alcance em óticas. Estruturar funil e CRM define métricas de conversão e custo por aquisição para priorizar canais mais eficientes."
+            },
+            {
+              "label": "Fidelização",
+              "text": "Programas de relacionamento, pós-venda técnico e serviços recorrentes incrementam LTV em óticas. Estruturar rituais de atendimento e benefícios direcionados sustenta retenção, reduz churn e aumenta receita por cliente ao longo do tempo."
+            },
+            {
+              "label": "KPIs",
+              "text": "Monitorar CAC, LTV, taxa de conversão, ticket médio e ROI permite priorizar ações e alocar orçamento em óticas. Esses indicadores orientam otimizações de canal, mix e promoções, conectando desempenho comercial a metas financeiras."
+            }
+          ]
+        },
+        {
+          "title": "Plano Operacional",
+          "items": [
+            {
+              "label": "Layout e normas",
+              "text": "Definir fluxo de atendimento, zonas de exposição e protocolos internos aumenta eficiência e qualidade em óticas. O planejamento do layout considera capacidade de atendimento, experiência do cliente e custos operacionais para equilibrar produtividade e satisfação."
+            },
+            {
+              "label": "5W2H",
+              "text": "O 5W2H organiza tarefas, responsáveis, prazos e recursos, trazendo previsibilidade para abertura e operação de óticas. Esse instrumento delimita entregáveis, custos e cronogramas, servindo de apoio na implementação das etapas previstas no plano."
+            },
+            {
+              "label": "Equipe",
+              "text": "Dimensionar papéis e responsabilidades aprende com demanda e complexidade dos serviços em óticas. Definição de perfis, escalas e critérios de produtividade alinha atendimento, vendas e suporte técnico às metas de conversão e retenção."
+            },
+            {
+              "label": "Tecnologia",
+              "text": "Sistemas de gestão, controle de estoque e integração com CRM e faturamento aumentam visibilidade e reduzem perdas em óticas. A tecnologia suportará escalabilidade, análise de mix e automação de processos críticos, melhorando decisões operacionais."
+            }
+          ]
+        },
+        {
+          "title": "Plano Financeiro",
+          "items": [
+            {
+              "label": "Custos",
+              "text": "Mapear custos fixos, variáveis e CMV quando aplicável é fundamental para precificação e margem em óticas. Entender estrutura de custos por linha de produto e serviço permite identificar alavancas para reduzir brechas e melhorar rentabilidade."
+            },
+            {
+              "label": "Investimento",
+              "text": "Listar itens de abertura, equipamentos ópticos e capital de giro define necessidades iniciais e prazos de desembolso. Esses valores compõem cenários de sensibilidade que mostram impacto do investimento sobre fluxo de caixa e necessidade de financiamento."
+            },
+            {
+              "label": "Receitas",
+              "text": "Modelar receitas com premissas de volume, ticket e sazonalidade produz cenários plausíveis para óticas. Segmentar por produto, lente e serviço ajuda a entender mix, margens e dependência de itens promocionais ou recorrentes."
+            },
+            {
+              "label": "Indicadores",
+              "text": "Calcular breakeven, payback, margens e projeções de fluxo de caixa evidencia sensibilidade do negócio em óticas. Esses indicadores permitem testar hipóteses e priorizar ações que impactem lucratividade e necessidade de capital."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plano-estrategico",
+      "title": "Plano estratégico",
+      "paragraphs": [
+        "A síntese estratégica prioriza iniciativas com maior impacto em receita e eficiência, alinhando posicionamento, canais e investimentos. O foco está em traduzir análise em um roteiro com metas, responsáveis e indicadores para orientar execução com clareza e método."
+      ],
+      "bullets": [
+        {
+          "label": "SWOT",
+          "text": "Organizar forças, fraquezas, oportunidades e ameaças em óticas permite direcionar escolhas táticas e mitigação de riscos. A matriz conecta fatores internos e externos à formulação de ações para explorar diferenciais e neutralizar vulnerabilidades."
+        },
+        {
+          "label": "BSC",
+          "text": "Estruturar metas por perspectivas financeira, mercado, processos e aprendizado cria cadência de execução em óticas. O BSC traduz objetivos em indicadores e iniciativas prioritárias, facilitando revisão periódica e realinhamento de recursos."
+        }
+      ]
+    },
+    {
+      "id": "analise-de-riscos",
+      "title": "Análise de riscos",
+      "paragraphs": [
+        "A matriz de riscos cruza probabilidade e impacto para priorizar controles e ações de mitigação. Em óticas, mapeamos riscos comerciais, operacionais e financeiros, definindo respondentes e medidas para reduzir exposição e aumentar resiliência do negócio."
+      ]
+    },
+    {
+      "id": "por-que-contratar",
+      "title": "Por que contratar a ECONOMICA?",
+      "paragraphs": [
+        "A ECONOMICA entrega planejamento e diagnóstico com método acadêmico aplicado ao mercado, priorizando clareza de premissas, cenários e métricas para apoiar decisões em óticas. Nosso foco é oferecer análise robusta e comunicação que facilite escolha estratégica.",
+        "Com atuação ligada ao Instituto de Economia da UNICAMP, a ECONOMICA reúne rigor analítico e aplicação prática em diagnósticos setoriais. Oferecemos estrutura de trabalho e metodologia pensada para transformar dados em decisões sem prometer execução operacional."
+      ]
+    },
+    {
+      "id": "o-que-inclui",
+      "title": "O que estará incluído no seu plano de negócios?",
+      "featureCards": [
+        {
+          "icon": "Target",
+          "title": "Plano estratégico inicial",
+          "description": "Síntese de MVV e Canvas do negócio, destacando direcionadores e objetivos estratégicos para orientar decisões iniciais."
+        },
+        {
+          "icon": "Search",
+          "title": "Pesquisa e mercado",
+          "description": "Levantamento de tendências, perfil de público, concorrência e análise regional para embasar premissas e cenários."
+        },
+        {
+          "icon": "Megaphone",
+          "title": "Plano de marketing",
+          "description": "Definição dos 7 Ps, canais prioritários e KPIs para aquisição e retenção, com priorização de iniciativas."
+        },
+        {
+          "icon": "Settings",
+          "title": "Plano operacional",
+          "description": "Mapeamento de processos, equipe e tecnologia para garantir consistência e eficiência operacional."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Plano financeiro",
+          "description": "Modelagem de custos, receitas e indicadores que sustentam decisões sobre preço e investimento."
+        },
+        {
+          "icon": "PieChart",
+          "title": "Plano estratégico final",
+          "description": "Consolidação de SWOT e plano de metas com indicadores e cronograma de execução."
+        },
+        {
+          "icon": "Shield",
+          "title": "Análise de riscos",
+          "description": "Matriz de riscos com medidas de mitigação e responsáveis para reduzir vulnerabilidades."
+        },
+        {
+          "icon": "FileText",
+          "title": "Relatório final",
+          "description": "Documento consolidado com análises, cenários e apresentação para apoio à tomada de decisão."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "label": "Agendar Diagnóstico Gratuito",
+    "href": "/contato"
+  }
+}
